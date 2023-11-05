@@ -9,7 +9,7 @@ Revenue and budget analysis
 
 ### The Data
 
-I settled on using two datasets:
-* movie_budgets.csv'
-* tmdb.csv
+ used two datasets in my analysis:
+tn.movie_budget.csv: The dataset contains list on movies, their release dates, production budget and domestic and worldwide gross.
+tmdb.csv: The dataset contains a list of movies, the popularity and vote average ratings.
 
